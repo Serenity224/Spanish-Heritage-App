@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+wbgapi
+scikit-learn
+scipy
+matplotlib
+seaborn
+reportlab
+openpyxl
